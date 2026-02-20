@@ -28,7 +28,9 @@ We are a team with 70+ years of collective experience across computer science, i
 - **[Papiro Interactive Pen](https://papiro.press)** — Interactive pen with an AI-powered collaborative web editor for producing book contents. `#rust` `#ai`
 - **[Money Maker](https://moneymaker.games)** — Board game where players become commercial banks, create money, and wreck the economy. `#board-game` `#activism`
 - **[Kiriwiri](https://kiriwiri.app)** — AI-powered voice logistics platform automating logistics through a voice-first social network. `#ai` `#voice`
-- **Fromulo** — Fonto Formula plugin, a competitive alternative to Wiris.com. `#fonto` `#math`
+- **[Fromulo](https://fromulo.com)** — Fonto Formula plugin, a competitive alternative to Wiris.com. `#fonto` `#math`
+- **[FormHandle.dev](https://formhandle.dev)** - World's first serverless form handler; Do a single POST call and your forms are captured to email. `#contactform`
+- **[Pub·bin](https://pubb.in)** - Deduplicating XML CMS that supports any XML schema. Oriented around content reuse and versioning of all data. Powered by FontoXML
 
 ## Open Source
 
