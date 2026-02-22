@@ -58,4 +58,4 @@ Our work primarily revolves around **Rust**, **Elm**, **Java**, and **WebAssembl
 
 ## Links
 
-- [paraplu.company](https://paraplu.company)
+- [paraplu.cloud](https://paraplu.cloud)
