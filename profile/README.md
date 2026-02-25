@@ -5,12 +5,13 @@
 We are a team with 70+ years of collective experience across computer science, information sciences, psychology, and education. Paraplu acts as a holding company, incubator, and shared services hub — centralizing accounting, equity management, hosting, administration, and providing a shared labor pool so our subcompanies can focus on building.
 
 > ### Looking for IT services?
+> <img src="https://fromulo.com/codesociety.png" align="left" width="80" alt="CodeSociety">
 >
 > **[CodeSociety](https://codesocietyhub.com/)** is our consulting & contracting arm — specializing in
 > **IT architecture**, **XML authoring systems**, **FontoXML integration**, and **TerminusDB consulting**.
 > We build structured content platforms and data solutions that power digital publishing.
 >
-> **[Start a conversation &#8594;](https://codesocietyhub.com/contact.html)**
+> **[Let's talk! &#8594;](https://codesocietyhub.com/contact.html)**
 
 ## Companies
 
