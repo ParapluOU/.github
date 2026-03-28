@@ -24,7 +24,7 @@ We are a team with 70+ years of collective experience across computer science, i
 
 ## Projects & Products
 
-- **[Parture](https://parture.org)** — GitHub for sheet music. Infrastructure layer for score-editing software with a protocol to incentivize musicians worldwide to transcribe and collaborate. `#rust` `#elm` `#wasm`
+- **[Parture](https://parture.org)** — GitHub for sheet music. An infrastructure layer for score-editing software with a protocol to incentivize musicians worldwide to transcribe and collaborate. `#rust` `#elm` `#wasm`
 - **[ContentEdge CMS](https://contentedgecms.com/)** — Java-based modular headless enterprise CMS with strict data isolation per tenant. `#java` `#spring-boot`
 - **[Papiro Interactive Pen](https://papiro.press)** — Interactive pen with an AI-powered collaborative web editor for producing book contents. `#rust` `#ai`
 - **[Money Maker](https://moneymaker.games)** — Board game where players become commercial banks, create money, and wreck the economy. `#board-game` `#activism`
@@ -55,7 +55,7 @@ We also maintain forks of [TerminusDB](https://github.com/ParapluOU/terminusdb),
 
 ## Tech Stack
 
-Our work primarily revolves around **Rust**, **Elm**, **Java**, and **WebAssembly**, with a strong focus on XML technologies, CRDTs, collaborative editing, and content management systems.
+Our work primarily revolves around **Rust**, **Elm**, **Java**, **React**, and **WebAssembly**, with a strong focus on XML technologies, CRDTs, collaborative editing, and content management systems.
 
 ## Links
 
